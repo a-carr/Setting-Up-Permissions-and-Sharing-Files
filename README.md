@@ -2,7 +2,8 @@
 <img src="https://i.imgur.com/sSPMJF3.png" alt="Traffic Examination"/>
 </p>
 
-<h1Setting Up Permissions and Sharing Files</h1>
+<h1>Setting Up Permissions and Sharing Files</h1>
+
 In this tutorial, we grant users various permissions and create sample file shares to assign to various groups. <br />
 
 <h2>Environments and Technologies Used</h2>
