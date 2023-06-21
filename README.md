@@ -25,7 +25,7 @@ In this tutorial, we grant users various permissions and create sample file shar
 <h2>Actions and Observations</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/HkUN3mC.png"/>
 </p>
 <p>
 Connect/log into DC-1 as your domain admin account (mydomain.com\jane_admin)
@@ -48,7 +48,7 @@ Folder: “no-access”, Group: “Domain Admins”, “Permissions: “Read/Wri
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/VxkKy5w.png"/>
 </p>
 <p>
 On Client-1, navigate to the shared folder (start, run, \\dc-1)
@@ -65,7 +65,7 @@ Does it make sense?
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/FdoXAqz.png"/>
 </p>
 <p>
 Go back to DC-1, in Active Directory, create a security group called “ACCOUNTANTS”
